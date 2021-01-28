@@ -6,7 +6,7 @@ let sign = document.getElementById('sign');
 console.log('BEFORE:', sign.textContent);
 
 // modify text
-sign.textContent = 'Welcome, travelers!';
+sign.textContent = 'Welcome, travellers!';
 
 console.log('AFTER:', sign.textContent);
 
@@ -14,4 +14,4 @@ console.log('AFTER:', sign.textContent);
 // sign.innerHTML = sign.innerHTML + '<p>hello</p>';
 
 // 3. change style
-sign.style.color = 'blue';
+// sign.style.color = 'blue';
